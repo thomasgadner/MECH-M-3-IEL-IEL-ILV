@@ -1,23 +1,21 @@
 ## General Information
 
-| DESCRIPTION   | VALUE                |
-|---------------|----------------------|
-| Module Name   | MECH-M-3-IEL-IEL-ILV |
-| Semester      | 3                    |
-| Assessment(s) | Final Exam (100%)    |
-| SWS Total     | 2                    |
-| Total Units   | 30                   |
-| ECTS          | 3                    |
-| Type          | ILV                  |
+| DESCRIPTION   | VALUE                                                                |
+|---------------|----------------------------------------------------------------------|
+| Module Name   | MECH-M-3-IEL-IEL-ILV                                                 |
+| Semester      | 3                                                                    |
+| Assessment(s) | One (1) final exam worth 3/6 and three (3) exercises worth 1/6 each. |
+| SWS Total     | 2                                                                    |
+| Total Units   | 30                                                                   |
+| ECTS          | 3                                                                    |
+| Type          | ILV                                                                  |
+
+> [!IMPORTANT]
+> Re-examinations take place in oral form, unless otherwise specified.
 
 ---
 
-> [!TIP]
-> Brush up on your knowledge of magnetics and power semiconductor devices before the course starts.
-
-
 ## Structure
-
 
 | MEETING | UE  | TYPE                             | TOPICS                               |
 |---------|-----|----------------------------------|--------------------------------------|
@@ -35,12 +33,9 @@
 | 12      | 2UE | (ILV)                            | EMC                                  |
 | 13      | 2UE | Exam                             | Final Exam                           |
 
-
 > [!IMPORTANT]
-> The exact schedule may change at any time during the semester. 
-
+> The exact schedule may change at any time during the semester.
 
 ## Reading List
-
 | TITLE | AUTHOR | PUBLISHER |
 |----|----|----|
