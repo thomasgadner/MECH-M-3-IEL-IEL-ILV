@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: MECH-M-3-IEL-IEL-ILV

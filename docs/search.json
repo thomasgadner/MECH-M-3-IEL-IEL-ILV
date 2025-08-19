@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MECH-M-3-IEL-IEL-ILV",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "General Information",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#general-information",
+    "href": "intro.html#general-information",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "DESCRIPTION\nVALUE\n\n\n\n\nModule Name\nMECH-M-3-IEL-IEL-ILV\n\n\nSemester\n3\n\n\nAssessment(s)\nOne (1) final exam worth 3/6 and three (3) exercises worth 1/6 each.\n\n\nSWS Total\n2\n\n\nTotal Units\n30\n\n\nECTS\n3\n\n\nType\nILV\n\n\n\n\n[!IMPORTANT] Re-examinations take place in oral form, unless otherwise specified.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#structure",
+    "href": "intro.html#structure",
+    "title": "1  Introduction",
+    "section": "Structure",
+    "text": "Structure\n\n\n\n\n\n\n\n\n\nMEETING\nUE\nTYPE\nTOPICS\n\n\n\n\n1\n2UE\n(ILV)\nIsolated converters and applications\n\n\n2\n2UE\nSelf-study (ILV)\nIsolated converters and applications\n\n\n3\n2UE\n(ILV)\nIsolated converters and applications\n\n\n4\n4UE\n(ILV)\nIsolated converters and applications\n\n\n5\n2UE\nSelf-study work (ILV)\nIsolated converters and applications\n\n\n6\n6UE\nGastvortrag Würth Elektronik EMC\n-\n\n\n7\n2UE\n(ILV)\nEMC compliant PCB design\n\n\n8\n2UE\nSelf-study work (ILV)\nEMC\n\n\n9\n2UE\n(ILV)\nEMC\n\n\n10\n2UE\n(ILV)\nEMC\n\n\n11\n2UE\n(ILV)\nEMC\n\n\n12\n2UE\n(ILV)\nEMC\n\n\n13\n2UE\nExam\nFinal Exam\n\n\n\n\n[!IMPORTANT] The exact schedule may change at any time during the semester.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#reading-list",
+    "href": "intro.html#reading-list",
+    "title": "1  Introduction",
+    "section": "Reading List",
+    "text": "Reading List\n\n\n\nTITLE\nAUTHOR\nPUBLISHER\n\n\n\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  }
+]
