@@ -1,0 +1,42 @@
+project:
+  type: book
+
+book:
+  title: MECH-M-3-IEL-IEL-ILV
+  page-footer:
+    left: MECH-M-3-IEL-IEL-ILV
+    right: This book was built with <a href="https://quarto.org/">Quarto</a>.
+  author:
+    - name: Thomas Gadner
+      affiliation: "MCI | The Entrepreneurial School" 
+  description: "A companion reader for MECH-M-3-IEL-IEL-ILV with a focus EMI."
+  date: last-modified
+  sidebar:
+    logo: cover.png
+    search: true
+  favicon: cover.png
+  repo-actions: [edit, issue]
+
+
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+
+bibliography: references.bib
+
+format:
+  html:
+    number-depth: 1
+    theme: zephyr
+    grid:
+      sidebar-width: 350px
+  pdf:
+    documentclass: scrreprt
+    cover-image: cover.png
+  epub:
+    cover-image: cover.png
+
+
